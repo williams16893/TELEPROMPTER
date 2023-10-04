@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Oct 2023 11:09:42 at https://www.veed.io/tools/teleprompter +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.veed.io/tools/teleprompter -O1 "C:\My Web Sites\TELEPROMPTER" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:15:49	Error: 	"Not Found" (404) at link https://www.veed.io/tools/link (from https://www.veed.io/tools/screen-recorder)
+11:20:51	Error: 	"Bad Request" (400) at link https://www.veed.io/tools/"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 922 612'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage preserveAspectRatio='none' filter='url(%23b (from https://www.veed.io/tools/webcam-test)
+11:24:47	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/convert/_next/static/chunks/pages/_app-4b1abd614f79273f.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/static/js/main.a7d751c9.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/live/studio/static/js/main.f6ff3d4f.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/main-39fbfd214b69832d.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/framework-8b7974553b1447ee.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/pages/_app-01d047c05aedf6ab.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/_next/static/chunks/pages/_app-7d05d1e2cc63c08f.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/static/js/main.b174a4bb.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/convert/_next/static/chunks/pages/_app-2324361db15fa5a7.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/main-cc095101a997b0de.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/static/js/main.a6c87f41.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/pages/_app-9ccdf2d4181f76a6.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/static/js/main.22affe69.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/_next/static/chunks/pages/_app-9c4f65dfdb5760ca.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/convert/_next/static/chunks/pages/_app-94291fea2acdb11d.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/live/studio/static/js/main.a29945e5.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/view/_next/static/chunks/pages/_app-de4d486dfd8f3b2c.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Bad Request" (400) at link https://www.googleoptimize.com/optimize.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/convert/_next/static/chunks/pages/_app-4d22bf97e8436353.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Not Found" (404) at link https://www.veed.io/_next/static/chunks/pages/_app-593e5c5a3d6e3f1d.js (from https://cdn.cookielaw.org/consent/60156e28-5b87-4579-ab00-9e4ebd24d3ce/OtAutoBlock.js)
+11:24:47	Error: 	"Bad Request" (400) at link https://www.veed.io/tools/webcam-test/"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 922 612'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage preserveAspectRatio='none' filter='url(%23b (from https://www.veed.io/tools/webcam-test/online-mirror)
+11:25:10	Error: 	"Not Found" (404) at link https://www.veed.io/tools/instagram-downloader/link (from https://www.veed.io/tools/instagram-downloader/igtv-downloader)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 3 seconds : 1806 links scanned, 1780 files written (262239257 bytes overall) [181299822 bytes received at 188265 bytes/sec], 105192838 bytes transferred using HTTP compression in 702 files, ratio 18%, 14.7 requests per connection
+(25 errors, 0 warnings, 0 messages)

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[directorySlug]\u002F[parentSlug]","\u002F[directorySlug]\u002F[parentSlug]\u002F[childSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
